@@ -1,0 +1,18 @@
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\bin\Debug\net6.0-windows\Asignacion Barberia.exe
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\bin\Debug\net6.0-windows\Asignacion Barberia.deps.json
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\bin\Debug\net6.0-windows\Asignacion Barberia.runtimeconfig.json
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\bin\Debug\net6.0-windows\Asignacion Barberia.dll
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\bin\Debug\net6.0-windows\Asignacion Barberia.pdb
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.csproj.AssemblyReference.cache
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion_Barberia.Form1.resources
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion_Barberia.Properties.Resources.resources
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.csproj.GenerateResource.cache
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.AssemblyInfoInputs.cache
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.AssemblyInfo.cs
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.csproj.CoreCompileInputs.cache
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.dll
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\refint\Asignacion Barberia.dll
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.pdb
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\Asignacion Barberia.genruntimeconfig.cache
+C:\Users\leone\source\repos\Asignacion Barberia\Asignacion Barberia\obj\Debug\net6.0-windows\ref\Asignacion Barberia.dll
